@@ -8,7 +8,7 @@ Day 1 – Wazuh SIEM Setup on Ubuntu VM
 - Generated login credentials to help access wazuh dashboard
   
 
-## 📸 Screenshots:
+## Screenshots:
 - Ubuntu Server VM setup process
 - Wazuh installation confirmation
 - Wazuh dashboard
